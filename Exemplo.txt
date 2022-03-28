@@ -1,0 +1,2 @@
+create database escola 1
+use escola
